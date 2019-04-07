@@ -1,4 +1,4 @@
-# uPing
+# Ping tool
 一个24小时监测VPS延迟的工具
 
 ## 警告
@@ -19,7 +19,7 @@ CentOS / RHEL :
 ## 使用方法
 
     screen -S uping
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/uPing/master/uping.py
+    wget -N --no-check-certificate https://raw.githubusercontent.com/vpnv2ray/uPing/master/uping.py
     python uping.py
   
 ## 截图
